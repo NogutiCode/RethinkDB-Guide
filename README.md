@@ -24,6 +24,10 @@ You can start using the RethinkDB.
 
 # **How to run RethinkDB?**
 ## Open terminal and make  directory, and follow the directory 
+**Install RethinkDB:**
+```shell
+docker pull rethinkdb
+```
 **make directory:**
 ```shell
 mkdir nosql
